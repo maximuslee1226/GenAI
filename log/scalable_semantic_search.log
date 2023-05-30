@@ -1,0 +1,91 @@
+2023-05-18 11:44:13,454 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 11:45:44,329 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 11:45:46,615 INFO: IndexFlatL2 created
+2023-05-18 11:45:46,616 INFO: Index built on device: mps
+2023-05-18 11:46:00,449 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-18 11:46:01,248 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 11:46:01,670 INFO: IndexFlatL2 created
+2023-05-18 11:46:01,670 INFO: Index built on device: mps
+2023-05-18 11:48:01,744 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-18 11:48:02,543 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 11:48:03,001 INFO: IndexFlatL2 created
+2023-05-18 11:48:03,001 INFO: Index built on device: mps
+2023-05-18 11:48:14,964 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-18 11:48:15,709 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 11:48:16,132 INFO: IndexFlatL2 created
+2023-05-18 11:48:16,133 INFO: Index built on device: mps
+2023-05-18 11:49:35,685 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-18 11:49:36,438 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 11:49:36,892 INFO: IndexFlatL2 created
+2023-05-18 11:49:36,892 INFO: Index built on device: mps
+2023-05-18 11:49:45,956 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-18 11:49:46,727 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 11:49:47,175 INFO: IndexFlatL2 created
+2023-05-18 11:49:47,175 INFO: Index built on device: mps
+2023-05-18 21:31:01,724 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 21:31:02,563 INFO: IndexFlatL2 created
+2023-05-18 21:31:02,563 INFO: Index built on device: mps
+2023-05-18 21:31:19,615 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-18 21:31:20,437 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 21:31:20,875 INFO: IndexFlatL2 created
+2023-05-18 21:31:20,875 INFO: Index built on device: mps
+2023-05-18 21:34:42,074 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 21:34:42,910 INFO: IndexFlatL2 created
+2023-05-18 21:34:42,910 INFO: Index built on device: mps
+2023-05-18 21:34:54,929 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-18 21:34:55,722 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 21:34:56,141 INFO: IndexFlatL2 created
+2023-05-18 21:34:56,142 INFO: Index built on device: mps
+2023-05-18 21:49:38,688 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 21:49:39,955 INFO: IndexFlatL2 created
+2023-05-18 21:49:39,957 INFO: Index built on device: mps
+2023-05-18 21:49:51,375 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-18 21:49:52,206 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-18 21:49:52,646 INFO: IndexFlatL2 created
+2023-05-18 21:49:52,647 INFO: Index built on device: mps
+2023-05-19 10:26:10,051 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 10:26:10,713 INFO: IndexFlatL2 created
+2023-05-19 10:26:10,714 INFO: Index built on device: mps
+2023-05-19 10:26:23,198 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-19 10:26:24,037 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 10:26:24,473 INFO: IndexFlatL2 created
+2023-05-19 10:26:24,473 INFO: Index built on device: mps
+2023-05-19 10:27:41,513 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 10:27:42,201 INFO: IndexFlatL2 created
+2023-05-19 10:27:42,202 INFO: Index built on device: mps
+2023-05-19 10:27:55,049 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-19 10:27:55,882 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 10:27:56,319 INFO: IndexFlatL2 created
+2023-05-19 10:27:56,319 INFO: Index built on device: mps
+2023-05-19 10:29:12,514 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 10:29:13,133 INFO: IndexFlatL2 created
+2023-05-19 10:29:13,133 INFO: Index built on device: mps
+2023-05-19 10:29:23,672 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-19 10:29:24,500 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 10:29:24,934 INFO: IndexFlatL2 created
+2023-05-19 10:29:24,935 INFO: Index built on device: mps
+2023-05-19 10:35:33,678 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 10:35:34,366 INFO: IndexFlatL2 created
+2023-05-19 10:35:34,366 INFO: Index built on device: mps
+2023-05-19 10:35:45,556 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-19 10:35:46,342 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 10:35:46,751 INFO: IndexFlatL2 created
+2023-05-19 10:35:46,751 INFO: Index built on device: mps
+2023-05-19 11:08:23,835 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 11:08:24,395 INFO: IndexFlatL2 created
+2023-05-19 11:08:24,395 INFO: Index built on device: mps
+2023-05-19 11:08:34,281 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-19 11:08:35,106 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 11:08:35,527 INFO: IndexFlatL2 created
+2023-05-19 11:08:35,527 INFO: Index built on device: mps
+2023-05-19 14:23:47,885 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 14:23:48,442 INFO: IndexFlatL2 created
+2023-05-19 14:23:48,442 INFO: Index built on device: mps
+2023-05-19 14:24:12,871 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-19 14:24:13,691 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 14:24:14,103 INFO: IndexFlatL2 created
+2023-05-19 14:24:14,103 INFO: Index built on device: mps
+2023-05-19 14:32:13,901 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 14:36:49,583 INFO: ScalableSemanticSearch initialized with device: mps
+2023-05-19 14:38:14,289 INFO: Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2023-05-19 14:38:15,101 INFO: ScalableSemanticSearch initialized with device: mps
